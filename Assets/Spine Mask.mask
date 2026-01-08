@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Spine Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Head
+    m_Weight: 0
+  - m_Path: Jaw
+    m_Weight: 0
+  - m_Path: Root
+    m_Weight: 1
+  - m_Path: Root/Bone
+    m_Weight: 1
+  - m_Path: Root/Bone/Bone_end
+    m_Weight: 1
+  - m_Path: Root/Head.001
+    m_Weight: 1
+  - m_Path: Root/Head.001/Bone
+    m_Weight: 1
+  - m_Path: Root/Head.001/Bone/Bone_end
+    m_Weight: 1
+  - m_Path: Root/Tail
+    m_Weight: 1
+  - m_Path: Root/Tail/Spine
+    m_Weight: 1
+  - m_Path: Root/Tail/Spine/Spine2
+    m_Weight: 1
+  - m_Path: Root/Tail/Spine/Spine2/Spine3
+    m_Weight: 1
+  - m_Path: Root/Tail/Spine/Spine2/Spine3/Spine4
+    m_Weight: 1
+  - m_Path: Root/Tail/Spine/Spine2/Spine3/Spine4/Spine5
+    m_Weight: 1
+  - m_Path: Root/Tail/Spine/Spine2/Spine3/Spine4/Spine5/Spine6
+    m_Weight: 1
+  - m_Path: Root/Tail/Spine/Spine2/Spine3/Spine4/Spine5/Spine6/Spine7
+    m_Weight: 1
+  - m_Path: Root/Tail/Spine/Spine2/Spine3/Spine4/Spine5/Spine6/Spine7/Spine8
+    m_Weight: 1
+  - m_Path: Root/Tail/Spine/Spine2/Spine3/Spine4/Spine5/Spine6/Spine7/Spine8/Spine9
+    m_Weight: 1
+  - m_Path: Root/Tail/Spine/Spine2/Spine3/Spine4/Spine5/Spine6/Spine7/Spine8/Spine9/Spine10
+    m_Weight: 1
+  - m_Path: Root/Tail/Spine/Spine2/Spine3/Spine4/Spine5/Spine6/Spine7/Spine8/Spine9/Spine10/Spine11
+    m_Weight: 1
+  - m_Path: Root/Tail/Spine/Spine2/Spine3/Spine4/Spine5/Spine6/Spine7/Spine8/Spine9/Spine10/Spine11/Spine12
+    m_Weight: 1
+  - m_Path: Root/Tail/Spine/Spine2/Spine3/Spine4/Spine5/Spine6/Spine7/Spine8/Spine9/Spine10/Spine11/Spine12/Spine13
+    m_Weight: 1
+  - m_Path: Root/Tail/Spine/Spine2/Spine3/Spine4/Spine5/Spine6/Spine7/Spine8/Spine9/Spine10/Spine11/Spine12/Spine13/Spine14
+    m_Weight: 1
+  - m_Path: Root/Tail/Spine/Spine2/Spine3/Spine4/Spine5/Spine6/Spine7/Spine8/Spine9/Spine10/Spine11/Spine12/Spine13/Spine14/Spine15.001
+    m_Weight: 1
+  - m_Path: Root/Tail/Spine/Spine2/Spine3/Spine4/Spine5/Spine6/Spine7/Spine8/Spine9/Spine10/Spine11/Spine12/Spine13/Spine14/Spine15.001/Spine16
+    m_Weight: 1
+  - m_Path: Root/Tail/Spine/Spine2/Spine3/Spine4/Spine5/Spine6/Spine7/Spine8/Spine9/Spine10/Spine11/Spine12/Spine13/Spine14/Spine15.001/Spine16/Spine16_end
+    m_Weight: 1
+  - m_Path: Spines
+    m_Weight: 1
+  - m_Path: Spines.002
+    m_Weight: 1
+  - m_Path: Spines.004
+    m_Weight: 1
+  - m_Path: Spines.006
+    m_Weight: 1
+  - m_Path: Spines.008
+    m_Weight: 1
+  - m_Path: Spines.010
+    m_Weight: 1
+  - m_Path: Spines.012
+    m_Weight: 1
+  - m_Path: Spines.014
+    m_Weight: 1
+  - m_Path: Spines.016
+    m_Weight: 1
+  - m_Path: Spines.018
+    m_Weight: 1
+  - m_Path: Spines.020
+    m_Weight: 1
+  - m_Path: Spines.022
+    m_Weight: 1
+  - m_Path: Spines.024
+    m_Weight: 1
+  - m_Path: Spines.026
+    m_Weight: 1
+  - m_Path: Spines.028
+    m_Weight: 1
+  - m_Path: Spines.030
+    m_Weight: 1
+  - m_Path: Spines.032
+    m_Weight: 1
+  - m_Path: Spines.034
+    m_Weight: 1
+  - m_Path: Spines.036
+    m_Weight: 1
+  - m_Path: Spines.038
+    m_Weight: 1
+  - m_Path: Spines.040
+    m_Weight: 1
+  - m_Path: Spines.042
+    m_Weight: 1
+  - m_Path: Spines.044
+    m_Weight: 1
+  - m_Path: Spines.046
+    m_Weight: 1
+  - m_Path: Spines.048
+    m_Weight: 1
+  - m_Path: Spines.050
+    m_Weight: 1
+  - m_Path: Spines.052
+    m_Weight: 1
+  - m_Path: Spines.054
+    m_Weight: 1
+  - m_Path: Spines.056
+    m_Weight: 1
+  - m_Path: Spines.058
+    m_Weight: 1
+  - m_Path: Teath
+    m_Weight: 0
