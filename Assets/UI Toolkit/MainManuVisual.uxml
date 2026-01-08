@@ -1,0 +1,7 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/MainManuStyle.uss?fileID=7433441132597879392&amp;guid=d2b82417bf0a1d54c8929ed4991aa860&amp;type=3#MainManuStyle"/>
+    <ui:VisualElement name="Container" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Textures/Main%20Menu.png?fileID=21300000&amp;guid=fe00c920a9f7f434096b4347df42333e&amp;type=3#Main Menu&quot;);">
+        <ui:Label text="Dont Look Up" class="header" style="margin-top: 237px; -unity-text-align: middle-center; -unity-font-definition: url(&quot;project://database/Library/unity%20default%20resources?fileID=10102&amp;guid=0000000000000000e000000000000000&amp;type=0#LegacyRuntime&quot;); font-size: 80px; color: rgb(166, 7, 0);"/>
+        <ui:Button text="Start" name="StartButton" class="button" style="margin-top: 146px; background-image: none; background-color: rgb(0, 0, 0); color: rgb(255, 255, 255);"/>
+    </ui:VisualElement>
+</ui:UXML>
